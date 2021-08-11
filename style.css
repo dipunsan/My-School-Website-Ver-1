@@ -1,0 +1,19 @@
+#head1{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 30px;
+    color: blue;
+    background-color: orangered;
+}
+hr{
+    width: 100%;
+    font-size: 10px;
+}
+body{
+    text-align: center;
+}
+.announcement{
+color: chartreuse;
+    background-color: blue;
+    font-size: 25px;
+}
